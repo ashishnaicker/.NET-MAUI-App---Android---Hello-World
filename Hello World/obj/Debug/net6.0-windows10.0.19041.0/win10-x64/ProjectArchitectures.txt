@@ -1,0 +1,1 @@
+D:\GitHub\.NET-MAUI-App---Android---Hello-World\Hello World\Hello World.csproj;x64
